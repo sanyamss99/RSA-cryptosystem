@@ -1,0 +1,17 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//                         WELCOME      TO      RSA       CRYPTO       SYSTEM                                 //
+//                         BY-     SANYAM SHARMA     SARTHAK PAL      PRANJUL                                 //
+//                         Roll no. (SE)-  115                                                                //
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Establishing company A
+A established.
+Establishing company B
+B established.
+Message from company A to B is : 
+Enter the message to be sent by A : Message from company A to B is : hello
+Encrypting.......    Encrypted.
+the encrypted message sent is : 262164448335090125013829369152875038333286831285697
+Decrypting.......     Decrypted.
+the Deccrypted message recieved by B from A is : hello
